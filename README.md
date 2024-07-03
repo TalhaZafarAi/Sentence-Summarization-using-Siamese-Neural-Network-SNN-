@@ -1,0 +1,2 @@
+# Sentence-Summarization-using-Siamese-Neural-Network-SNN-
+Sentence Summarization using SNN leverages similarity metrics, TF-IDF vectorization, and binary classification. Long Short-Term Memory (LSTM) models enhance categorization by learning text patterns. Transformer-based Text Classification (TTC), using models like BERT, achieves high performance by deeply understanding contextual information.
